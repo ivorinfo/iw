@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-20T21:50:22+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ivor Williams</title><subtitle>Ivor Williams is a designer committed to helping everyone awaken to their mortality.
+</subtitle><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><entry><title type="html">Special Moments</title><link href="http://localhost:4000/special-moments/" rel="alternate" type="text/html" title="Special Moments" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T00:00:00+00:00</updated><id>http://localhost:4000/special-moments</id><content type="html" xml:base="http://localhost:4000/special-moments/"><![CDATA[<h4 id="a-memorialisation-platform-for-parents">A memorialisation platform for parents</h4>
+
+<p><img src="/images/moments.jpg" alt="hospice" /></p>
+
+<p><strong>Background</strong><br />
+Given other focus around early stages of the hospice experience (with onboarding supportive tools like Chiara), we felt it could be valuable to explore the closing phases of the hospice journey, where bereavement and memorialisation are important stages for some families to experience.</p>
+
+<p>We understood the value of the hospice and the role of its professionals doesn’t end with the child’s death. Moreover, we learned that bereaved families often actively share their knowledge and experience with families who may be preparing for a death, who often feel isolated when contemplating the loss of their child. The relationships and bonds that are created around grief and bereavement are incredibly powerful, and we wanted to help support them as much as possible.</p>
+
+<p>We believed that the hospice could become a hub for promoting supportive interactions and maintaining relationships within and between families after bereavement, which would naturally form around memories of a child, and continuing bonds.</p>
+
+<p><strong>Learning with parents</strong><br />
+To understand more about people’s current understanding, motivations and feelings around memory-making, we conducted surveys with our network to hear from families’ own words what these activities meant to them. Families told us of the need for families to create memories that reinforced as much as possible, the normal, everyday lives they had with their children.</p>
+
+<p>We then held a workshop with parents, co-facilitated by a parent with lived experience, to further explore memory-making. This uncovered the concept of memories as being useful in the present by providing meaningful thoughts, with families also wanting to ensure that other people helped populate and contribute to the collective story of a child. We uncovered many important insights from our workshop including the fact that making memories isn’t a normal activity. Parents just want to be normal and prefer to just do normal things that create memories (such as holidays or trips). We also learned that memories captured by other people and shared to the family were helpful in making up a fuller picture of the child.</p>
+
+<p>These explorations fed into our design process which enabled us to develop some minimally viable features in a deployable prototype that families could use.</p>
+
+<p><img src="/images/sm.jpg" alt="hospice" /></p>
+
+<p><strong>Creating special moments</strong><br />
+Moments is a digital platform for a parent’s most special memories. It is designed to capture everyday normal events and create a richer picture of a child’s life.Parents can use it to quickly record memories during the child’s life. Due to its simplicity in uploading new content, we know that people find Moments useful for capturing spontaneous moments as they occur. One parent commented, <em>“it’s a really good thing to put everything in one place. Because I put stuff all over the place and I rely on things like Facebook, which is not good.”</em></p>
+
+<p>We also found that people were comfortable using Moments to look back at memories and adding new content at their own time after the child’s death, with another parent saying, <em>“I felt really excited about the potential for making a diary scrapbook of memories, with filmed videos, writing.”</em></p>
+
+<p>Moments allows people to add a feeling or mood to the uploaded content, providing more emotional context to the event. Moreover, it allows the family to relive the same moment from a different perspective, and allows them to track how they feel over time. A parent resonated with this feature saying, <em>“I think the emotion tracker gives the app a little bit more versatility, because it feels more like it’s a memory, rather than a diary.”</em></p>
+
+<p>Moments was in many ways the most sensitive prototype we developed in our children’s hospice work so far. Creating a dedicated space for parents, and the people close to them, to help build and hold a safe space for memories of a child is not an easy product to develop. But we felt that with our expansive set of research, insights, themes, concepts and scenarios, we constructed a meaningful and desirable starting point to help ease the transition from care to bereavement and beyond.</p>
+
+<hr />
+<h3 id="team-ivor-williams-gianluca-fontana-greta-castellana-milo-hill">Team: Ivor Williams, Gianluca Fontana, Greta Castellana, Milo Hill.</h3>]]></content><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><category term="post" /><summary type="html"><![CDATA[A memorialisation platform for parents]]></summary></entry><entry><title type="html">Cove</title><link href="http://localhost:4000/cove/" rel="alternate" type="text/html" title="Cove" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T00:00:00+00:00</updated><id>http://localhost:4000/cove</id><content type="html" xml:base="http://localhost:4000/cove/"><![CDATA[<h4 id="improving-peoples-mental-health-through-music-therapy">Improving people’s mental health through music therapy</h4>
+
+<p><img src="/images/cove2.jpg" alt="cove" /></p>
+
+<p><strong>Background</strong><br />
+In an age where technology both eased and complicated lives, Cove emerged as a positive technological influence amidst increasing mental health challenges. While offering convenience and self-care opportunities, technology also has been known to contribute to significant mental health issues, particularly affecting young people with escalating rates of depression, anxiety, and suicide. Cove responded to this digital conundrum by offering a space that acknowledged the emotional complexity of human life in a rapidly changing world.</p>
+
+<p><strong>Our Work</strong><br />
+Cove was inspired by the loss of my best friend, and was set in motion by the witnessing some of the stranger rituals of modern life. In this case, young people taking selfies at funerals. Puzzled by the use of technology to express a complex situation, I sat down with Alex Rothera to explore how we might better use technology to express complex emotions. Cove was crafted to transform the act of expressing emotions into a delightful and playful experience. It was pivotal to develop an inclusive environment, to make the process of music-making as easy as possible, eschewing traditional musical icons for more elemental designs like stones and water, which created a personal space for users’ emotional expression.</p>
+
+<p><img src="/images/cove-hero.jpg" alt="cove" /></p>
+
+<p><strong>How We Did It</strong><br />
+Our mission was to improve young people’s mental health by providing enjoyable, accessible and meaningful support with easy-to-use technology. Our methodology hinged on empathetic listening, playful prototyping, and effective delivery. A diverse team, including designer founders, developers, audio designers, product managers, researchers, and clinical advisors, worked in concert with psychologists to grasp the needs of young people.</p>
+
+<p>The design process involved:</p>
+<ul>
+  <li>Identifying problems with ‘humane’ technology through empathy.</li>
+  <li>Discovering music as a layered medium for emotional expression, especially beneficial for those finding it more approachable than writing.</li>
+  <li>Prioritising privacy and personal space, with all data kept locally and no encouragement for social media sharing.</li>
+  <li>Focusing on active music-making for empowerment and self-expression.</li>
+</ul>
+
+<p><strong>Impact</strong><br />
+Cove’s impact was not just quantified through user engagement and downloads, but also through its significant trust and utilisation within health and care services. The app’s effectiveness and innovative approach to mental health management were recognized and validated by several reputable health organizations.</p>
+
+<ul>
+  <li>NHS England: Cove was evaluated and approved for use in the NHS app library. It was commended as a highly intuitive and engaging app, serving as a valuable resource for self-expression therapy and anxiety distraction.</li>
+  <li>Parkinson’s UK: The app underwent independent evaluation and was subsequently supported and included in their app library.</li>
+  <li>Islington CCG Child and Adolescent Mental Health Services: Cove was evaluated by 52 young people in Islington, receiving a high rating of 4.2 out of 5, indicating its effectiveness and popularity among young users.</li>
+  <li>EMIS Health: The partnership with EMIS Health led to an evaluation and a commercial arrangement to offer Cove on their primary care app library. This partnership enabled Cove to be prescribed to patients via GPs, significantly broadening its reach and impact.</li>
+</ul>
+
+<p>These recognitions and partnerships with health and care services underscored Cove’s role as a pioneering mental health tool. They also validated the app’s design and methodology, confirming its efficacy in supporting mental health in diverse settings.</p>
+
+<hr />
+<h3 id="learn-more-cove">Learn more: <a href="https://www.cove-app.com">Cove</a></h3>
+<h3 id="team-ivor-williams-alex-rothera-dr-stephanie-archer-mor-bakal-davide-cairo-chris-thompson-mike-colville-alejandro-santander-ema-odonovan">Team: Ivor Williams, Alex Rothera, Dr Stephanie Archer, Mor Bakal, Davide Cairo, Chris Thompson, Mike Colville, Alejandro Santander, Ema O’Donovan.</h3>
+<h3 id="image-credit--chris-thompson">Image credit: © Chris Thompson</h3>]]></content><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><category term="post" /><summary type="html"><![CDATA[Improving people’s mental health through music therapy]]></summary></entry><entry><title type="html">Amber Care Plans</title><link href="http://localhost:4000/amber/" rel="alternate" type="text/html" title="Amber Care Plans" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T00:00:00+00:00</updated><id>http://localhost:4000/amber</id><content type="html" xml:base="http://localhost:4000/amber/"><![CDATA[<h4 id="digital-services-that-facilitate-difficult-conversations">Digital services that facilitate difficult conversations</h4>
+
+<p><img src="/images/amber-use.jpg" alt="cove" /></p>
+
+<p><strong>Background</strong><br />
+Given the track record in changing how end-of-life care would be delivered, re-designing care planning became a major focus for us at the Helix Centre in 2017. We were excited by research showing advance care plans are effective in giving patients control during serious illness and death, and that people with a plan are more likely to die in their preferred place of care. We also believed that by combining our design and technical skills with insights from patients and their families, we could do something about the low take up of advance care plans.</p>
+
+<p>As the population ages, and medical knowledge advances, the importance of giving people more choice and control over their care has never been greater. Around 500,000 people die each year in the UK, and half of these deaths occur in hospital. Yet only 8% of people want to be there.</p>
+
+<p>Research shows that an advance care plan is an effective way to give people choice and control - 80% of people with a plan die in their preferred place of care. Having an advance care plan is highly effective in aligning healthcare with patients’ wishes. They reduce hospital bed days in over-65s and save money for the NHS. When an advance care plan is in place, patients and their families report happier experiences, particularly at the end of life.</p>
+
+<p>An advance care plan is simply a guide spelling out your likes, dislikes, wishes, and the treatments someone would want to refuse or the rituals they would want followed - whether during illness or at the end of life. The planning process helps patients and those important to them think about different scenarios, and the plans are used by medical staff if the patient becomes too ill to communicate.</p>
+
+<p>However, despite the numerous benefits only 5% of people admitted to hospital have an advance care plan. It’s like a will - we all should have one, but few of us bother until it is too late.</p>
+
+<p><strong>Our work</strong><br />
+We wanted to change this, and from the outset we knew we didn’t just want to increase the number of plans being made in GP surgeries and hospitals. Clinicians are already very short on time. We wanted to take advance care planning mainstream – out of the clinics and hospitals, and into the home. We developed a digital platform designed to help individuals and families take an active role in planning and managing the care they receive, ultimately creating a plan that could be shared with family, carers and GPs.</p>
+
+<p>To do this, we spun out a company, Digital Care Planning, with £500,000 funding from SBRI Healthcare, and brought the first product to market. The product, Amber Care Plans was designed to make the advance care planning process as easy as possible, so anyone can do it from the comfort of their own home.</p>
+
+<p>During its development, our designs and prototypes were tested by volunteers from Marie Curie, and had invaluable input from Parkinson’s support groups and dementia memory clinics. We visited retirement communities and talked to GPs and palliative care consultants and tested the product with the public, at all ages.</p>
+
+<p>We also developed an early AI-enabled chat bot that helped people think about and plan for end of life, and built a prototype voice bot, exploring the new technology at the time. It helped people consider different scenarios, and then they were offered a tailored template they could further personalise.</p>
+
+<p><strong>Impact</strong><br />
+Sadly, despite the pre-seed funding, we were unable to develop a business model that would lead to sustainability whilst also meeting the complex needs of the NHS. Amber Care Plans was sadly shut down in the autumn of 2019 after running for 2 years, but its impact was felt widely. 4600 users signed up to make care plans with us, signing up 500 users a month at the time of closure. 40% of our users were living with an illness. Most were healthy, but just wanted to be well-prepared. Our completed digital plans equated to £3m in savings, with paper plans and partially completed plans giving a total of £9m in potential savings.</p>
+
+<hr />
+<h3 id="team-ivor-williams-matt-harrison-daniel-dickens-chris-mccormack-mor-bakal-marius-matei">Team: Ivor Williams, Matt Harrison, Daniel Dickens, Chris McCormack, Mor Bakal, Marius Matei</h3>]]></content><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><category term="post" /><summary type="html"><![CDATA[Digital services that facilitate difficult conversations]]></summary></entry><entry><title type="html">Bake</title><link href="http://localhost:4000/bake/" rel="alternate" type="text/html" title="Bake" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T00:00:00+00:00</updated><id>http://localhost:4000/bake</id><content type="html" xml:base="http://localhost:4000/bake/"><![CDATA[<h4 id="role-playing-in-augmented-reality-for-every-child-regardless-of-physical-ability">Role-playing in augmented reality for every child, regardless of physical ability</h4>
+
+<p><img src="/images/bake.jpg" alt="hospice" /></p>
+
+<p><strong>Background</strong><br />
+Play therapy has long been recognised as a crucial area of hospice care. In our two year exploration into children’s hospice care, we discovered the opportunity around augmenting social environments as a way of supporting children in their holistic (psychological, physical, social, spiritual) needs.</p>
+
+<p>In a fourth prototype in the project, we believed that augmenting children’s play opportunities with interactive peer-to-peer experiences would result in a reduction of fear and worry for patients during treatments, and improved emotional wellbeing for siblings during their stay, because we understand that children need relief from pain and distressing symptoms, and seek connection amongst peers especially when away from home.</p>
+
+<p>As a result, we developed an augmented reality (AR) play therapy prototype, codenamed “Bake”, specifically designed for the iPhone. This experimental game allowed children, particularly those with high cognitive abilities but physical disabilities, to engage in a role-play activity. By simply using their head and eyes, children could select ingredients and create a recipe to bake a cake. This prototype finds its roots in established play therapy frameworks, focusing on the exploratory stage, one of the four recognised stages of play therapy.</p>
+
+<p><strong>Our aim</strong><br />
+Within this realm, our prototype emphasises three key aspects:</p>
+<ul>
+  <li>Directive Play: Here, the therapist leads the session, choosing the toys or games and guiding the child towards a specific therapeutic goal.</li>
+  <li>Real-life Role Play: This element underscores the importance of role-playing in helping individuals understand themselves and others, thus equipping them to navigate daily life challenges.</li>
+  <li>Exploratory Stage: During this phase, children familiarise themselves with the therapy setting, building rapport with their therapist and understanding the roles of all involved.</li>
+</ul>
+
+<p>Our target user group comprises children with high cognitive capabilities who possess significant face, head, or neck movement. This allows for the integration of head tracking in regular play activities like role playing. This demographic was chosen to promote a sense of autonomy and control. It’s vital for children to express preferences, connect through mimicking, and engage in typical play patterns.</p>
+
+<p><strong>What we did</strong><br />
+From our engagement with play therapists, four interviews revealed several insights. Notably, mimicking and ‘normal’ play are essential for connection, and there’s a scarcity of accessible eye gaze technology. Building trust by understanding children’s interests is paramount in therapy. Moreover, parents find immense comfort in knowing their child can express preferences. Using day-to-day technology, rather than cumbersome eye gaze systems, greatly benefits therapists. For children, even simple choices, like selecting a colour, are significant, as is seeking assistance from trusted adults.</p>
+
+<p>However, technology integration in play therapy is not without its challenges. Current eye gaze equipment, priced at approximately £11,000, is not only exorbitant but also bulky and challenging to calibrate. Moreover, therapists often spend undue time documenting sessions, as existing technology doesn’t streamline this process.</p>
+
+<p>Our early-stage AR experience utilises head tracking, offering a hands-free role-play activity. The child can select diverse ingredients to craft a cake, using facial movements to complete tasks. Rich 3D models, sound effects, and speech-to-text features enrich the experience, supporting the child’s exploration and creativity. This prototype empowers children to partake in simple, engaging steps, baking a cake and receiving immediate visual and auditory feedback, spurring them to repeat actions and build self-confidence.</p>
+
+<p>Our prototype’s primary objective is to offer children choices and control using accessible and affordable technology, making it feasible for hospices and families. For children, this means the freedom to express preferences and achieve independence. Therapists, on the other hand, benefit from using cost-effective, mainstream technology instead of pricier alternatives, such as Eye gaze or Magic carpet. In the long run, this could simplify data reporting for therapists, allowing more direct interaction time with children.</p>
+
+<p>We then tested our prototype, collaborating with Sarah Daniels from Hope House Children’s Hospice. In our sessions, we engaged with six children and two young adults, each presenting unique challenges, from Duchenne Muscular Dystrophy to limited cognitive abilities. Feedback highlighted the importance of documenting each child’s progress and the joy derived from any positive outcome, whether a smile or a sense of independence.</p>
+
+<p><strong>Whats next</strong><br />
+Looking ahead, there’s immense potential for our AR prototype. Integrated into special rooms, like multi-sensory spaces, it could become an essential tool in hospice services, complementing traditional play therapy methods. Furthermore, the data collection opportunities could provide hospices with comprehensive care records, enhancing holistic care.</p>
+
+<hr />
+<h3 id="team-ivor-williams-gianluca-fontana-greta-castellana-lily-hoskin">Team: Ivor Williams, Gianluca Fontana, Greta Castellana, Lily Hoskin.</h3>]]></content><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><category term="post" /><summary type="html"><![CDATA[Role-playing in augmented reality for every child, regardless of physical ability]]></summary></entry><entry><title type="html">Chiara</title><link href="http://localhost:4000/chiara/" rel="alternate" type="text/html" title="Chiara" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T00:00:00+00:00</updated><id>http://localhost:4000/chiara</id><content type="html" xml:base="http://localhost:4000/chiara/"><![CDATA[<h4 id="materialising-the-future-of-care-through-film-and-technology">Materialising the future of care through film and technology</h4>
+
+<p><img src="/images/chiara-movie.jpg" alt="hospice" /></p>
+
+<p><strong>Background</strong><br />
+For families caring for a child with a life-limiting or life-threatening illness, life can be incredibly difficult. The experience of parents who may give birth to a child with a congenital or inherited disease, or watch as their otherwise healthy child becomes ill with cancer, immediately puts them on the fringes of society. They can become isolated, separated from ‘normal’ life, with back-to-back hospital consultations and appointments, with huge pressures on family cohesion between partners and other children.</p>
+
+<p>For many families, the appearance of a hospice service is a terrifying sight: signalling the end of their child’s life, the end of hope. Yet when they do bravely enter one, many are surprised to find that their life-affirming and supportive environment makes such a positive impact on their lives.</p>
+
+<p>It is within that tension between being stuck in a closed loop at home, where families care for their child around-the-clock, and being included and supported in a holistic environment such as a children’s hospice, that we wanted to investigate with our second prototype. Our biggest motivator to develop a prototype was uncovered early in our research and definition phase, where so much of the hospice service relied on parents coming through the doors of the hospice in the first place.</p>
+
+<p>Existing organisations already struggle to engage with families, to find them, and support them in a way that is meaningful for them in their journey. The teams working on the Seragnoli hospice equally identified in our user journey mapping work that the ‘onboarding’ to a hospice represented a pivotal moment for families. So much relied on it.</p>
+
+<p>So this prototype represented a tangible way to present how these barriers could be overcome with the explicit use of technology. Framed slightly ahead of the current capabilities of technology – it presents a vision of the future. A future that our hospice partner, Seragnoli foresees with their hospice, to connect and support families through innovative technologies, responding to their unique needs.</p>
+
+<p>Chiara is an prototype digital platform, providing parents with personalised information they might need to get the right support from the right person, at the right time. 
+Chiara responds to families’ needs to find appropriate, actionable information and support when they are caring for their child at home. We prototyped this tangible vision of the future through a ‘design fiction’ film and a functional, supportive chatbot that can help families at home to care for their child.</p>
+
+<p><strong>Our aim</strong><br />
+We wanted to develop Chiara as a ‘design fiction’ film; telling the story of how intelligent, supportive digital tools can help families at home to care for their child. The narrative film would incorporate elements of the prototype user interface (UI) that illustrated not only the technology itself, but how it will be incorporated into the hospice service with a focus on the ‘Awareness and referral’ and ‘First visit’ phase. We believe there is great scope for an artificial intelligence (AI) assistant to support families at these very early stages. We believe that the ability of such an AI agent would be feasible within the next few years.</p>
+
+<p>As a healthcare innovation lab, using technology and design to improve health outcomes is at the core of the Helix Centre. We view technology as an enabler and know that it has the potential to empower users through autonomy. It enables the customisation of products/services; helps with decision-making; aids/supports medical therapies; can monitor, gather and analyse data; can help facilitate better communication; helps maintain a normal life for people, and can help people with orientation and/or essential logistics.</p>
+
+<p>When discussing our starting points – scenarios and ideas – with hospice leaders, it was clear that there was a demand for such an approach. Sue Hogg, clinical director at CHAS in Scotland said that when it comes to engaging with a hospice for the first time, “parents say: <em>‘How do I navigate my way? Without asking someone that might commit me. How do I find out, do my own fact finding first?’”</em></p>
+
+<p><img src="/images/chiara.png" alt="hospice" /></p>
+
+<p><strong>What we did</strong><br />
+Our goal from the beginning of the project was to develop tangible examples of technology that supported children’s and families’ needs, and also technology that provided a vision of the (near) future for the Seragnoli children’s hospice. Chiara was designed to provide that vision. But rather than presenting a functional prototype of the guide in isolation, outside of its intentional context, we wanted to show how its applications were rooted in the lives of families who would ultimately be using the service. We made a design fiction film of the prototype to achieve this.</p>
+
+<p>Design fiction is about storytelling through and with designed objects. The stories provide context and meaning and bring people and social elements together to the stage, while the objects represent possible ways in which the envisioned technology, product or service is embodied and used. Design fiction is mostly firmly rooted in the here and now, but adds a layer of (near) future to it, thus blurring the boundaries between realism and fiction. Our film used pre-existing real world knowledge and information - for example around responding to a crisis at home - and combined with aspects of technology that are just outside of our grasp, to see what tensions, unintended consequences or positive opportunities may emerge.</p>
+
+<p>Through our research phase - which included user interviews with families and shadowing professionals - we identified a number of goals for supporting families. We knew we needed to provide tailored recommendations for support groups and resources based on the specific needs and context of families. Secondly, we wanted to tailor information at a national level, which meant suggesting suitable children’s hospices, aiming to expedite families’ paths to the right facility. Lastly, we wanted to facilitate connections between families and professionals, as well as linking them to other families and services within the children’s hospice network.</p>
+
+<p>Through our prototyping phase, we learnt that families could find useful a virtual assistant in the referral process to the children’s hospice. We know from our research that the systems of referral and engagement are fragmented. The clinical side is well managed, but families miss other things on the personal aspect like childcare, education, emotional support, bureaucracy and benefits. Chiara is a conversational agent that could help families in the referral process to the hospice, during their stay and after death, for bereavement. Ultimately, we felt Chiara could be the single touchpoint that helps the family navigate everything around their hospice care.</p>
+
+<p><strong>What comes next</strong><br />
+Chiara provided us with two major insights. Firstly, presenting a design prototype as film, with the associated emotional attachments that come from telling a story of a family facing a crisis, effectively revealed the complexities and realities of supporting people with technology. There is no ideal scenario or hypothetical situation for technology to be used, but the film showed how nuanced experiences could be expressed and critiqued. This can only benefit the design process, enabling us to better understand the motivations and needs of families. The process of making was as important as the outcome. We were building to learn.</p>
+
+<p>Secondly, by projecting a product into the near future, we avoided some of the early barriers in development that usually accompany the use of emerging technologies. The use of a chatbot with such a high level of learning takes certain things for granted: Chiara knew a lot about the family before they started talking, as we assumed that clinical records and private information could and would have been consented earlier, outside the scene. This was raised as a particularly problematic point of the scenario which validated the purpose of generating a realistic scenario in the first place. Our challenge now is to try and bring the Parent’s Guide closer to reality, to really see where ‘the rubber meets the road’ when it comes to digital services for hospice care.</p>
+
+<p>Our prototype is driven by human needs and wants. Families need to feel connected and supported, but they don’t want to feel patronised by faceless technology. The challenge will be to balance both the need of a hospice to widen its care offering, while responding to the complex needs of those families who will ultimately use the service.</p>
+
+<hr />
+<h3 id="team-ivor-williams-gianluca-fontana-greta-castellana-lily-hoskin-jorge-alexander">Team: Ivor Williams, Gianluca Fontana, Greta Castellana, Lily Hoskin, Jorge Alexander.</h3>]]></content><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><category term="post" /><summary type="html"><![CDATA[Materialising the future of care through film and technology]]></summary></entry><entry><title type="html">Children’s hospice care</title><link href="http://localhost:4000/childrens-hospice/" rel="alternate" type="text/html" title="Children’s hospice care" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T00:00:00+00:00</updated><id>http://localhost:4000/childrens-hospice</id><content type="html" xml:base="http://localhost:4000/childrens-hospice/"><![CDATA[<h4 id="improving-childrens-hospice-care-through-innovation">Improving children’s hospice care through innovation</h4>
+
+<p><img src="/images/ch1.jpg" alt="hospice" /></p>
+
+<p><strong>Background</strong><br />
+Every day, around 360,000 babies are born around the world. The large majority will lead long, healthy lives into adulthood. Sadly, a minority experience a very short life due to illness or live with a long-term or life- limiting disease. For these children, palliative care can transform their experience, helping them live with an enhanced quality of life, while also supporting their family and friends.</p>
+
+<p>Paediatric palliative care is an active and total approach to care, from the point of diagnosis, throughout the child’s life, to death and beyond. It embraces physical, emotional, social and spiritual elements and focuses on improving the quality of life of everyone involved. It includes the management of distressing symptoms, care at the end of life and bereavement support. Children’s hospices provide the most comprehensive paediatric palliative care. But globally, there is a chronic lack of them. The demand is high yet hospitals and other organisations have limited resources and capability to offer holistic care required.</p>
+
+<p>Thanks to advances in healthcare more children now survive their illness for longer, and live to adulthood. This means there is a greater need to act systemically about how hospice care is delivered. Developments in technology and changes in care delivery mean that the hospice service itself moves beyond the walls of a building, into the community. With this evolution in mind, what does innovative children’s hospice care look like now and in the near future?</p>
+
+<p>At the Helix Centre, we researched and built prototypes that help to define the future of children’s hospice care, for a brand new children’s hospice being developed by Fondazione Seràgnoli near Bologna in Italy. We believe hospice care that can use design and technology successfully and meaningfully can transform the way professionals deliver care, and significantly improve the care experience for patients and their families.</p>
+
+<p><img src="/images/hospice.jpg" alt="hospice" /></p>
+
+<p><strong>What we did</strong><br />
+Collaborating with renowned architects Renzo Piano Building Workshop and the design studio Dotdotdot, we supported the development of this new hospice experience – from the moment a family is engaged with the service, to when they may transition after the death of a child. This unique collaboration ensured that all aspects of the experience – from the physical environment to the integration of clinical and social care – was designed to the highest standard.</p>
+
+<p>So far we have developed four prototypes that respond to the relational, situational and holistic needs of children and families. Our first prototype, The Connected Garden, fused principles of horticultural therapy with meaningful uses of technology, to create interactive living plants that enable children and their families to engage in cooperative play. In doing so, we hope to enable and support accessible use of a garden space for every visitor and patient of the hospice.</p>
+
+<p>While the second Chiara, an AI-powered chatbot, provides parents with personalised information they might need to get the right support from the right person, at the right time.</p>
+
+<p>Our third prototype in the project was in many ways the most sensitive so far. Moments is a digital platform for parents, and the people close to them, to help build and hold a safe space for memories of a child.</p>
+
+<p>Our fourth prototype, Bake, was another experimental technology prototype. As an augmented reality (AR) role-play therapy prototype for the iPhone, Bake enables a child to pick ingredients and build a recipe to bake a cake using just their head and eyes. As an activity using established play therapy frameworks, it was designed for children with normal cognitive abilities but poor or little physical abilities.</p>
+
+<p>We also published a report that examined the state of Children’s Palliative Care (CPC) worldwide. It set out an “unashamedly optimistic” vision for how to radically improve the levels of care for the rapidly growing number of children around the world with life-limiting conditions.</p>
+
+<p>The <a href="https://www.imperial.ac.uk/media/imperial-college/institute-of-global-health-innovation/IGHI_CPC_Report_Final.pdf">children’s palliative care provider of the future: A blueprint to spark scale and share innovation</a> outlines nine critical features of CPC services. This includes physical, emotional, and social support for children and their families to ensure the best possible quality of life.</p>
+
+<hr />
+<h3 id="team-ivor-williams-gianluca-fontana-greta-castellana-lily-hoskin-milo-hill-jorge-alexander">Team: Ivor Williams, Gianluca Fontana, Greta Castellana, Lily Hoskin, Milo Hill, Jorge Alexander.</h3>]]></content><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><category term="post" /><summary type="html"><![CDATA[Improving children’s hospice care through innovation]]></summary></entry><entry><title type="html">Uji</title><link href="http://localhost:4000/uji/" rel="alternate" type="text/html" title="Uji" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T00:00:00+00:00</updated><id>http://localhost:4000/uji</id><content type="html" xml:base="http://localhost:4000/uji/"><![CDATA[<h4 id="a-meditative-wall-clock-that-radically-changes-the-way-you-can-look-at-and-think-about-time">A meditative wall clock that radically changes the way you can look at, and think about time.</h4>
+
+<p><img src="/images/uji05.jpg" alt="hospice" /></p>
+
+<p><strong>Background</strong><br />
+Being and Dying was a design research group that researched and investigated contemporary approaches to life and death, through experimental design. This included broad issues around health and the environment, preventative and holistic healthcare, all to challenge the notion of death existing in stark opposition to life. Crucially, it approached improving life and preparing for death from a holistic perspective, linking both states together as a unified experience.</p>
+
+<p>The studio researched how current and future technology can connect with traditional and emerging health practices to create genuinely holistic products, services and experiences. It did this through a combination of trandisciplinary practices; filmmaking, product and industrial design, interaction and graphic design, collaborating with healthcare practitioners, academia and other specialists.</p>
+
+<p><strong>Aim</strong><br />
+The aim of Uji was to explore the application of wearable technology in a non-quantitative, abstract manner. It was inspired (and named) after the Japanese Zen concept of Uji - which emphasises the inseparability and interdependence of time and existence, suggesting that each moment of time is a manifestation of all existence and vice versa. It challenges the conventional use of wearables for data collection, especially regarding health metrics. Instead of storing or quantifying health data, Uji uses technology to express the rhythm of a heartbeat in a tangible form, prompting reflection on how technology can offer new experiences without quantifying personal health information.</p>
+
+<p><img src="/images/uji02.jpg" alt="hospice" /></p>
+
+<p><strong>What we did</strong><br />
+We integrated technology typically used in wearables for detecting heartbeats. However, unlike traditional wearables, Uji doesn’t store or quantify this data. It represents a heartbeat abstractly, allowing for a unique interaction with technology that doesn’t hinge on health analytics. This approach raises ethical questions about data ownership and privacy, especially in the context of health and wellness data collected by private companies.</p>
+
+<p>Uji’s design and function prompt a broader discussion about the future of healthcare technology, the role of doctors, and the personalization of health care. With it, we were envisioning a future where health becomes highly technological, yet also anticipates a resurgence in personal, human-centric healthcare. This dichotomy highlights the growing tension between the convenience of technology and the irreplaceable value of human touch in healthcare. Uji stands as a thought-provoking commentary on the current state and potential future of wearable technology in healthcare, emphasising the need for a balance between technological advancement and maintaining personal, human connections in healthcare.</p>
+
+<hr />
+<h3 id="read-more-interview-with-ivor-on-dezeen">Read more: <a href="https://www.dezeen.com/2014/05/09/uji-wall-clock-ivor-williams-moves-hands-in-time-with-heartbeat/">Interview with Ivor on Dezeen</a></h3>
+
+<h3 id="team-ivor-williams-jonathan-chomko-federico-floriani">Team: Ivor Williams, Jonathan Chomko, Federico Floriani.</h3>
+
+<h3 id="image-credit-marco-zanin">Image credit: Marco Zanin</h3>]]></content><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><category term="post" /><summary type="html"><![CDATA[A meditative wall clock that radically changes the way you can look at, and think about time.]]></summary></entry><entry><title type="html">Connected Garden</title><link href="http://localhost:4000/garden/" rel="alternate" type="text/html" title="Connected Garden" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T00:00:00+00:00</updated><id>http://localhost:4000/garden</id><content type="html" xml:base="http://localhost:4000/garden/"><![CDATA[<h4 id="fusing-horticultural-therapy-practices-with-a-meaningful-uses-of-technology">Fusing horticultural therapy practices with a meaningful uses of technology</h4>
+
+<p><img src="/images/garden1.jpg" alt="hospice" /></p>
+
+<p><strong>Background</strong><br />
+Our first prototype for the Children’s Hospice project - the Connected Garden – recognised the significant importance that gardens hold as a place of refuge, play and relaxation. In our assessment of leading hospices, we found they placed great value on the ability for children, young people and families to be in nature if they wish. The reason is clear: being in nature can take us away from ourselves, invoke feelings of calm and appreciation, and makes us feel happier.</p>
+
+<p>Given our work was focused on a new Italian hospice building set by Renzo Piano Building Workshop, his central idea of ‘living amid the trees’ inspired us to consider the outdoor space to be as integral to the hospice service as any of the indoor facilities or medical care. The Connected Garden explored how to fuse the innovative horticultural therapy practices we uncovered through research with meaningful uses of technology, to enable and support accessible use of a garden space for every visitor and patient of the hospice.</p>
+
+<p>The concept emerged from a desire to address several questions: facilitating peer-to-peer connections, leveraging virtual games or environments to aid children with mobility loss, and crafting regular physical spaces for play. The underlying idea was to establish the garden as an interactive, communal space to nurture a sense of community for families in the hospice setting, particularly as children desire autonomy from their parents and adults seek spaces outside the hospice for acclimatisation.</p>
+
+<p><strong>Our aim</strong><br />
+Our main goal was to test and develop the hypothesis that a garden could serve as an interactive, communal space, bringing together both the families at the hospice and remote members. We aimed to empower both children and adults, providing them with a sense of responsibility and connection through the act of growing plants.</p>
+
+<p>Through design development, we developed three concepts, of which the “Flower Power” concept strongly emerged, from the desire to facilitate both autonomy and togetherness for children and adults within the hospice. It was envisioned as a bridge between the hospice’s interior and the garden, making nature more accessible. Its primary goal was to cater to the children’s need for independence from their parents and adults’ desire for spaces outside the hospice to acclimatise to the service.</p>
+
+<p><strong>The therapeutic value of nature</strong><br />
+Through this exploration we learned of horticulture therapy. It highlighted the therapeutic advantages of gardens in hospices, from being a calming space to facilitating activities like playground games and vegetable farming. We learned from Elisabeth Pilgrem, an expert in Social and Therapeutic Horticulture (STH) which validated the therapeutic benefits of interacting with nature. Drawing on Attention Restoration Theory (ART), the therapeutic attributes of nature were underscored, emphasising the restorative aspects of ‘being away’ and ‘fascination’. Following these insights, a second refined hypothesis was established, focusing on the collaborative element of the concept. This led to the development of functional prototypes which underwent iterative design and testing phases.</p>
+
+<p>Drawing from the therapeutic benefits of nature, the design process transitioned into creating games that incorporated these principles. The emphasis was on collaborative, normalising play, with plants and nature at the core. The technologies were introduced, turning plants into interactive tools through capacitive touch sensors. This innovative blend of nature and technology paved the way for games like “Fishes”, “Sloth”, and “Carrot &amp; Rabbit”.</p>
+
+<p><img src="/images/garden2.jpg" alt="hospice" /></p>
+
+<p><strong>Technology and interaction</strong><br />
+The technological cornerstone of the project was the integration of capacitive touch sensors with plants. By attaching four of these sensors to various plant parts, distinctive electrical resistance changes were detected based on where the plant was touched. This data was fed into a machine learning algorithm that built a classifier capable of predicting the touch location based on the sensor readings, thereby turning plants into interactive interfaces. This innovative approach allowed the plants to be the primary input source for the games, with real-time feedback being provided through various outputs such as LED patterns, sound, or game actions. The system was designed to be intuitive and engaging, allowing children to naturally explore and interact with the plants while receiving immediate sensory feedback. Such technological integration not only made the games more immersive but also highlighted the potential of blending nature with technology in a therapeutic context.</p>
+
+<p><strong>User testing</strong><br />
+Two design sprints were executed, each followed by a user testing session. The first sprint focused on creating interactions with plants, resulting in three co-operative mini-games. Feedback from the first user test was invaluable, highlighting the importance of feedback during play and the engagement levels of children with the games. In the second sprint, the prototypes were refined, splitting into two main exercises – an improved ‘carrot &amp; rabbit’ game and an experience centred on play and exploration through plants augmented with audio and light. User testing revealed that both games served as significant distractions from the clinical environment, with children showing prolonged engagement.</p>
+
+<p><strong>Whats next</strong><br />
+Throughout the user testing sessions, there was consistent engagement with the prototypes, particularly highlighting the captivating nature of the plant-as-interface concept. However, certain gaps were identified, such as the need to focus on interactions between siblings specifically, and the need to involve children from children’s hospices directly.</p>
+
+<p>The Connected Garden prototype combined the therapeutic benefits of horticulture with modern technology to enhance the hospice environment for children and families. By integrating touch-sensitive technology within plants, the prototype bridged the natural world with interactive experiences. This approach aligns with the hospice’s vision of creating a comforting and communal space, allowing children to engage with nature and join in collaborative activities. For families, it offers a means to connect and find moments of peace together. It represents a thoughtful blend of nature and innovation, reflecting the hospice’s commitment to holistic well-being and support.</p>
+
+<hr />
+<h3 id="team-ivor-williams-gianluca-fontana-greta-castellana-lily-hoskin">Team: Ivor Williams, Gianluca Fontana, Greta Castellana, Lily Hoskin.</h3>]]></content><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><category term="post" /><summary type="html"><![CDATA[Fusing horticultural therapy practices with a meaningful uses of technology]]></summary></entry><entry><title type="html">Museum of Future Government Services</title><link href="http://localhost:4000/museum/" rel="alternate" type="text/html" title="Museum of Future Government Services" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T00:00:00+00:00</updated><id>http://localhost:4000/museum</id><content type="html" xml:base="http://localhost:4000/museum/"><![CDATA[<h4 id="prototyping-the-future-city">Prototyping the future city</h4>
+
+<p><img src="/images/museum2.jpg" alt="hospice" /></p>
+
+<p><strong>Background</strong><br />
+The Prime Minister’s Office of the UAE organized a life-sized “Smart Street” exhibition as part of the World Government Summit in Dubai. This was the second in a series of exhibitions by Tellart. The first Museum of Future Government Services was designed by Tellart in collaboration with Fabrica, where I was a studio director. As art director for Tellart, I was responsible for the visual design of the exhibiton as a whole, including user interfaces and graphic design throughout. The exhibit showcased the UAE’s vision of a future city, complete with empathic, proactive government services, intelligent technologies, and a highly urbanized environment. Visitors experienced a polished scenography, custom architecture, and sensory elements like scents and flavours, immersing them in a futuristic cityscape.</p>
+
+<p><strong>Aim</strong><br />
+The primary objective of the exhibition was to ignite meaningful debate among global leaders about the future of urban living and government services. It aimed to present a vision of the future that integrated advanced technologies with citizen-centric services, thereby inspiring real-world government initiatives.</p>
+
+<p><strong>What we did</strong><br />
+The exhibition included various thematic areas, such as:</p>
+<ul>
+  <li>Smart Mobility: A government service lab showcasing autonomous vehicles designed to provide services, enhancing time utilization during commutes.</li>
+  <li>Personal Microclimates: Introducing the “Personal Cloud” system, offering targeted air conditioning to make hot outdoor spaces comfortable.</li>
+  <li>Gaming Obesity: ‘Fitzania,’ an immersive gaming experience, aimed at encouraging exercise and providing health feedback to combat childhood obesity.</li>
+  <li>Luxury Healthcare: The PharmaCafé, offering personalized health treatments in a spa-like environment.</li>
+  <li>Learning Lab: An AI-powered immersive classroom for lifelong learning.</li>
+  <li>Smart Infrastructure: Displaying how autonomous machines and human technicians can collaboratively build and maintain a city.</li>
+  <li>Smart Street: Visitors interacted with an augmented reality plinth at the entrance, revealing the city’s invisible data layers.</li>
+</ul>
+
+<p><img src="/images/museum1.jpg" alt="hospice" /></p>
+
+<p><strong>Impact</strong><br />
+The exhibit led to significant developments:</p>
+<ul>
+  <li>The planning and creation of the Museum of the Future in Dubai, a permanent hub for innovation in government services.</li>
+  <li>Inspired multiple policies and initiatives by the UAE and Dubai government, including the appointment of a Minister of State for Happiness.</li>
+  <li>Redeployed at international events like the Tokyo Motor Show 2017 and CES 2018.</li>
+  <li>Praised for its design and foresight in policy and innovation, the exhibition was acclaimed for engaging citizens and governments innovatively to address future challenges.</li>
+</ul>
+
+<hr />
+<h3 id="team-tellart-with-support-from-an-international-team-of-partners-technical-and-creative-partners-scatter-softlab-bompas--parr-octo-carlo-ratti-associati-idee-und-klang-and-future-cities-catapult-onsite-build-and-installation-partners-publicislive-neumann--müller-and-projex-uae">Team: Tellart, with support from an international team of partners: Technical and creative partners: Scatter, SOFTlab, Bompas &amp; Parr, Octo, Carlo Ratti Associati, Idee und Klang, and Future Cities Catapult. Onsite build and installation partners: PublicisLive, Neumann &amp; Müller and Projex UAE.</h3>]]></content><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><category term="post" /><summary type="html"><![CDATA[Prototyping the future city]]></summary></entry><entry><title type="html">Palliate</title><link href="http://localhost:4000/palliate/" rel="alternate" type="text/html" title="Palliate" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T00:00:00+00:00</updated><id>http://localhost:4000/palliate</id><content type="html" xml:base="http://localhost:4000/palliate/"><![CDATA[<h4 id="supporting-safer-community-palliative-care-with-technology">Supporting safer community palliative care with technology</h4>
+
+<p><img src="/images/palliate-bed.jpg" alt="palliate-bed" /></p>
+
+<p><strong>Background</strong><br />
+It is estimated that of the 6.2 million estimated carers in the UK, half a million are caring for someone with a terminal illness. The majority of those people who die every year would prefer to die at home, yet only about half achieve this.</p>
+
+<p>This is often due to patients unable to have their symptoms managed properly at the end of life. People often have to wait longer than what feels acceptable to them for community nurses to come and administer medications or injections. When this happens, symptoms can escalate, carers and patients can become distressed and families lose control of the situation.</p>
+
+<p>Such poor management of pain relief at the end of life can lead to unplanned emergency admissions, resulting in poorer quality of life and poorer experiences for carer and dying person.</p>
+
+<p>Laycarers - family, friends or people important to the dying person - tend to the individual’s physical and emotional needs. They often wish they could do more, such as relieve community nursing teams of tasks like administration of medications. 39% of British adults say they would feel comfortable giving a pain-relief injection to someone who was dying and wanted to stay home, after receiving some training and with no additional support.</p>
+
+<p>Training carers in the administration of end-of-life anticipatory (‘just in case’) medications for symptom control happens in the UK and abroad. Randomised control trials have shown that laycarers can confidently prepare and administer subcutaneous (under the skin) injections for palliative care patients in the home. The practice has been developed into various policies in England, Scotland and Australia, but it is not widespread.</p>
+
+<p>Current and future provision of consistent, continuous care in the community rests on laycarers being properly trained to do more. There is huge potential to ‘upskill’ lay carers in the practical competencies required to care and support their loved ones in the community. We believe there should be a choice for carers to be trained to give symptom control medications. It’s important to note, though, that this is not an expectation, and carers must be deemed suitable by healthcare professionals.</p>
+
+<p>We see the administration of medications by carers in the home, as a key element of good community care.</p>
+
+<p><img src="/images/palliate-app.png" alt="palliate-app" /></p>
+
+<p><strong>Introducing Palliate</strong><br />
+Palliate, is a healthcare intervention that seeks to improve the access and quality of training and support for carers to administer sub-cut medications in the home. In doing so, our ambition is to support patient preferences for a home death while also reducing pressure on community care teams. Palliate does this by providing digital information and support via an app, to carers who have been trained to deliver medications.</p>
+
+<p><strong>How we did it</strong><br />
+In March 2020, we accelerated the early development of the project in response to COVID-19. The virus re-wrote the way in which end-of-life care was done in the community: district nurses and nurse specialists could no longer access patient homes, resulting in more families needing to do more themselves, in an uncertain environment. During the pandemic’s first wave, we rapidly deployed a website tool that incorporated Palliate’s training materials and processes, which was used by NHS and hospices teams across the UK.</p>
+
+<p>From then, we have continued to work with NHS and hospice partners to develop a technology-driven support tool for carers. We aim to reduce friction in the experience of administering medications, improve the confidence levels of carers, improve the overall experience of managing symptoms and treatment in the home, and unlock opportunities for robust data collection for quality improvement and improved patient safety. In 2022, we undertook a small pre-pilot based in North Camden in London with CNWL NHS Trust, to test the intervention with volunteer families. They were given both a digital and paper-based version of the intervention, and followed the nurse-led training programme to safely and confidently administer medications.</p>
+
+<p><strong>Impact</strong><br />
+As a result of our pre-pilot, we found that Palliate:</p>
+<ul>
+  <li>was used confidently by carers (with an average confidence score of 8.73/10)</li>
+  <li>91% of injections were administered without healthcare professional assistance, highlighting the strength of the training material and ease-of-use.</li>
+  <li>Importantly, the time between symptom onset and medication administration was reduced to from over 100 minutes to 20 minutes, meaning patients got the symptom relief they needed in a much reduced time. This resulted in improved carer confidence and better symptom management.</li>
+</ul>
+
+<p>One carer reported: <em>“I was able to improve symptoms, pain, distress, nausea….the ability to give an injection made a massive difference, most importantly for (patient) as the level of trust between us meant she wanted me to give it to her rather than other people, ie, HCP’s and this meant she was calmer as she trusted me. The short answer is that the alternative would have been calling for help and delays… the stress of someone unfamiliar always giving it to her would have made things much worse. There was no way to stop the whole thing (patient dying at home) from being stressful, but it was helpful to be in control. In some ways I felt calmer knowing and being in charge”.</em></p>
+
+<p><strong>Whats next</strong><br />
+The work continues. In 2024, a mixed methods study - qualitative and quantitative studies - is to be conducted that explores the acceptability of the intervention for carers and capturing the perspectives of a wider range of professionals and public to understand the value of the intervention. This also includes further iteration and development of the Palliate product, with an expansion of the products with a healthcare professional view, to monitor patients remotely. Further piloting of the intervention in clinical environment with associated clinical studies, is planned for 2025.</p>
+
+<hr />
+<h3 id="learn-more-palliate">Learn more: <a href="https://www.palliate.info">Palliate</a></h3>
+<h3 id="team-ivor-williams-imo-eastwood-cally-feather-lily-hoskin-milo-hill-greta-castellana-claudia-hopkins-cat-kilkenny-jonathan-gregory">Team: Ivor Williams, Imo Eastwood, Cally Feather, Lily Hoskin, Milo Hill, Greta Castellana, Claudia Hopkins, Cat Kilkenny, Jonathan Gregory</h3>]]></content><author><name>Ivor Williams</name><email>mail@ivorwilliams.info</email></author><category term="post" /><summary type="html"><![CDATA[Supporting safer community palliative care with technology]]></summary></entry></feed>
