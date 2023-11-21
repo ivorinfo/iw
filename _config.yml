@@ -9,7 +9,7 @@ description: >
   Ivor Williams is a designer committed to helping everyone awaken to their mortality.
 
 # Build settings
-
+baseurl: "/iw" # Change this to your GitHub project name
 theme: minima
 
 plugins:
