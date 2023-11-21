@@ -19,7 +19,7 @@ I want to help to us - both individually and collectively - embrace our mortalit
 ---
 
 ### Read 
-- Read [case studies](/work) of my recent design work
+- Read [case studies](/iw/work) of my recent design work
 - Read some of my [published writing](/writing) on innovation, health and psychology.
 
 ### Learn
