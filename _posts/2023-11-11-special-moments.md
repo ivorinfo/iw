@@ -6,7 +6,7 @@ permalink: /special-moments/
 ---
 #### A memorialisation platform for parents
 
-![hospice](/images/moments.jpg)
+![hospice](/iw/images/moments.jpg)
 
 **Background**  
 Given other focus around early stages of the hospice experience (with onboarding supportive tools like Chiara), we felt it could be valuable to explore the closing phases of the hospice journey, where bereavement and memorialisation are important stages for some families to experience.
@@ -23,7 +23,7 @@ We then held a workshop with parents, co-facilitated by a parent with lived expe
 These explorations fed into our design process which enabled us to develop some minimally viable features in a deployable prototype that families could use.
 
 
-![hospice](/images/sm.jpg)
+![hospice](/iw/images/sm.jpg)
 
 **Creating special moments**  
 Moments is a digital platform for a parent’s most special memories. It is designed to capture everyday normal events and create a richer picture of a child’s life.Parents can use it to quickly record memories during the child’s life. Due to its simplicity in uploading new content, we know that people find Moments useful for capturing spontaneous moments as they occur. One parent commented, *“it’s a really good thing to put everything in one place. Because I put stuff all over the place and I rely on things like Facebook, which is not good.”*
