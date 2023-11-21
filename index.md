@@ -20,7 +20,7 @@ I want to help to us - both individually and collectively - embrace our mortalit
 
 ### Read 
 - Read [case studies](/iw/work) of my recent design work
-- Read some of my [published writing](/writing) on innovation, health and psychology.
+- Read some of my [published writing](/iw/writing) on innovation, health and psychology.
 
 ### Learn
 - Learn more about my new venture [Mortals](http://mortals.community), an online community and group programme that is centred around awakening to life.
@@ -30,5 +30,5 @@ I want to help to us - both individually and collectively - embrace our mortalit
 - [Listen](https://www.youtube.com/watch?v=nVPdp9NtFcY) to my conversaton with writer and teacher, Stephen Jenkinson
 
 ### Get in touch
-- Hire me and lets [work together](/design)
-- Set up a [free consultation](/eol) for end-of-life support
+- Hire me and lets [work together](/iw/design)
+- Set up a [free consultation](/iw/eol) for end-of-life support
