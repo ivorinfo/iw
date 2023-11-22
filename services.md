@@ -29,4 +29,8 @@ If you would like to book me for an interview, or podcast please [book a time](h
 #### What others say about working with me
 
 *"Ivor is a really profound communicator about a range of things that many people consider 'sensitive'. He is very thoughtful about how he hold his wisdom on a topic that wider society/others have considerably less comfort or experience talking about."*  
-– Iona Lawrence, co-founder The Decelerator and the Jo Cox Foundation
+– Iona Lawrence, co-founder of The Decelerator and the Jo Cox Foundation
+
+*"I would say that Ivor is the wisest designer I know."*  
+– Louis Weinsstock, psychotherapist and co-founder of Bounce Works
+
