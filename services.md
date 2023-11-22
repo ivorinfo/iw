@@ -32,5 +32,5 @@ If you would like to book me for an interview, or podcast please [book a time](h
 – Iona Lawrence, co-founder of The Decelerator and the Jo Cox Foundation
 
 *"I would say that Ivor is the wisest designer I know."*  
-– Louis Weinsstock, psychotherapist and co-founder of Bounce Works
+– Louis Weinstock, psychotherapist and co-founder of Bounce Works
 
