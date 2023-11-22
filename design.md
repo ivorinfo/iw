@@ -33,10 +33,6 @@ My consultancy isn't just about solutions; it’s about understanding the journe
 |      | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-non-profit)       | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-non-profit-clone)                | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-start-up-clone)                |
 | Follow-up Consultation | £65 per hour                               | £80 per hour                                       | £110 per hour                                    |
 |      | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-non-profit-clone-1)       | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-start-up-clone-1)               | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-for-profit-clone)                |
-| Design Support        | Discounted Rate (Contact for details)      | Standard Rate £110 per hour (Flexible packages available) | Standard Rate £110 per hour                    |
-| Commissioned Work      | Discounted Rate (Contact for details)      | Standard Rate with Flexible Packages              | Standard Rate £110 per hour                      |
-| Long-term Projects     | Custom Pricing (Contact to discuss)        | Custom Pricing (Contact to discuss)               | Custom Pricing (Based on scope)                 |
-
 
 **Notes for Clients:**
 - **Flexibility:** I understand that every project and organisation is unique. Please don't hesitate to reach out to discuss your specific needs and budget.
