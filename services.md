@@ -10,7 +10,7 @@ I’ve been working as a designer for 16 years, 10 of those in healthcare. What 
 
 [Learn more about my design offering and get in touch to discuss your project](/design)
 
-#### What others say about working with me
+**What others say about working with me**
 
 *"Ivor is a really profound communicator about a range of things that many people consider 'sensitive'. He is very thoughtful about how he hold his wisdom on a topic that wider society/others have considerably less comfort or experience talking about."*  
 – Iona Lawrence, co-founder of The Decelerator and the Jo Cox Foundation
