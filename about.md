@@ -22,9 +22,9 @@ But I wasn’t always designing for death. In fact, I began my career working on
 
 As a long-time educator, I find it is very important to challenge your practice in the studio and lecture theatre. I am currently Visiting Lecturer on the Healthcare and Design MSc at Imperial College London. I was Visiting Professor of Information Design at the Università Iuav di Venezia from 2014–2016, and I’ve held teaching positions at Design Academy Eindhoven and the Glasgow School of Art. I have taught at numerous design and architecture schools around the world.
 
-Along with a number of [published papers](/iw/writing), I am also co-author of a number of key reports including *The children’s palliative care provider of the future: A blueprint to spark scale and share innovation* and *This Too Shall Pass: Collective mourning in the age of Covid-19*. I continue to write regularly through my own Substack.
+Along with a number of [published papers](/writing), I am also co-author of a number of key reports including *The children’s palliative care provider of the future: A blueprint to spark scale and share innovation* and *This Too Shall Pass: Collective mourning in the age of Covid-19*. I continue to write regularly through my own Substack.
 
-I [speak regularly around the world](/iw/talks) and have presented keynotes at End Well, IxDA in the US; Human Understanding Design Centre in South Korea; DesignTO Festival in Canada; Domus Academy, Accademia delle Scienze di Medicina Palliativa, ISIA Urbino in Italy; the Festival of Curiosity and DotMed in Ireland; Graphic Design Festival Breda and Dutch Design Week in The Netherlands; European Health Care Design conference, the Royal Society of Medicine in the UK and presented at the Scottish and European Parliaments.
+I [speak regularly around the world](/talks) and have presented keynotes at End Well, IxDA in the US; Human Understanding Design Centre in South Korea; DesignTO Festival in Canada; Domus Academy, Accademia delle Scienze di Medicina Palliativa, ISIA Urbino in Italy; the Festival of Curiosity and DotMed in Ireland; Graphic Design Festival Breda and Dutch Design Week in The Netherlands; European Health Care Design conference, the Royal Society of Medicine in the UK and presented at the Scottish and European Parliaments.
 
 ## What I'm doing now
 
