@@ -21,7 +21,7 @@ I want to help to us - both individually and collectively - embrace our mortalit
 
 ### Read 
 - Read [case studies](/work) of my recent design work
-- Read some of my [published writing](/iw/writing) on innovation, health and psychology.
+- Read some of my [published writing](/writing) on innovation, health and psychology.
 
 ### Learn
 - Learn more about my new venture [Mortals](http://mortals.community), an online community and group programme that is centred around awakening to life.
