@@ -6,7 +6,7 @@ permalink: /childrens-hospice/
 ---
 #### Improving children's hospice care through innovation
 
-![hospice](/iw/images/ch1.jpg)
+![hospice](/images/ch1.jpg)
 
 **Background**  
 Every day, around 360,000 babies are born around the world. The large majority will lead long, healthy lives into adulthood. Sadly, a minority experience a very short life due to illness or live with a long-term or life- limiting disease. For these children, palliative care can transform their experience, helping them live with an enhanced quality of life, while also supporting their family and friends.
@@ -17,7 +17,7 @@ Thanks to advances in healthcare more children now survive their illness for lon
 
 At the Helix Centre, we researched and built prototypes that help to define the future of children’s hospice care, for a brand new children's hospice being developed by Fondazione Seràgnoli near Bologna in Italy. We believe hospice care that can use design and technology successfully and meaningfully can transform the way professionals deliver care, and significantly improve the care experience for patients and their families.
 
-![hospice](/iw/images/hospice.jpg)
+![hospice](/images/hospice.jpg)
 
 **What we did**  
 Collaborating with renowned architects Renzo Piano Building Workshop and the design studio Dotdotdot, we supported the development of this new hospice experience – from the moment a family is engaged with the service, to when they may transition after the death of a child. This unique collaboration ensured that all aspects of the experience – from the physical environment to the integration of clinical and social care – was designed to the highest standard.
