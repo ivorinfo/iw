@@ -30,13 +30,13 @@ I [speak regularly around the world](/talks) and have presented keynotes at End 
 
 I'm the founder of [Mortals](http://mortals.community), an online community and group programme that is centred around awakening to life. 
 
+I have completed my initial training as an end-of-life doula, and provide support to people and families, in association with [End of Life Doula UK](https://eol-doula.uk). 
+
 In late 2023, I joined the design leadership at [Accurx](https://www.accurx.com), to design systems that make NHS professionals happier and patients healthier. 
 
 I continue my end-of-life care research and innovation work as Honorary Practice Fellow at the [Institute of Global Health Innovation](https://www.imperial.ac.uk/global-health-innovation/) at Imperial College London.
 
-I am an advisor for [Zinc VC](https://www.zinc.vc), and also advise a number of start-ups, charities and organisations.
-
-I have also trained as an end-of-life doula, and provide support to people and families, in association with [End of Life Doula UK](https://eol-doula.uk). 
+Lastly, I am also an advisor for [Zinc VC](https://www.zinc.vc), and also advise a number of start-ups, charities and organisations.
 
 ---
 
