@@ -8,9 +8,9 @@ permalink: /about/
 
 ## About me
 
-Born and raised in Scotland, I studied design at the Glasgow School of Art and have been a practising designer for 15 years in the UK, Italy and the Netherlands. 
+Born and raised in Scotland, I studied design at the Glasgow School of Art and have been a practising designer for over 15 years in the UK, Italy and the Netherlands. 
 
-From 2015 to 2023 I was a designer at the Helix Centre, where I led the end-of-life care projects, developing projects that are used in the NHS, and co-founding our first spin-out, Digital Care Planning in 2017. In 2018, I was named a 'New Radical' by Nesta and the Observer newspaper for *'pioneering a human-centric approach to the experience of dying, bereavement and grief".*
+From 2015 to 2023 I was a designer at the Helix Centre and the Institute of Global Health Innovation at Imperial College London, where I was Lead for End-of-Life Care, developing innovation projects that are used across the NHS including [ReSPECT](/palliate) and [Palliate](/palliate), and co-founded their first spin-out, Digital Care Planning in 2017. In 2018, I was named a 'New Radical' by Nesta and the Observer newspaper for *'pioneering a human-centric approach to the experience of dying, bereavement and grief".*
 
 In 2015, I co-founded the tech-for-good mental health start-up Humane Engineering with Alex Rothera. Our first product Cove, was one of the first apps evaluated and approved by the NHS for its app library, which launched in 2017. It remains one of the most popular mental health apps available on the NHS. My ventures have been backed by Bethnal Green Ventures, NHS England and SBRI Healthcare.
 
