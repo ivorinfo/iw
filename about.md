@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![ivor](/images/ivor2.jpg){width=50%}
+![ivor](/images/ivor2.jpg){width=250}
 
 ## A short introduction
 
