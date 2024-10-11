@@ -13,7 +13,7 @@ title: home
 
 I work at the intersections of design, health, and human experience with a deep-seated drive to transform our relationship with mortality.
 
-I’m committed to helping us awaken to our mortality,to not only face but integrate this inevitable process. 
+I’m committed to helping us awaken to our mortality, to not only face but integrate this inevitable process. 
 
 I want to help to us - both individually and collectively - embrace our mortality with understanding, dignity, and grace.  
 
