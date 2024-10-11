@@ -8,8 +8,8 @@ permalink: /eol/
 Over 10 years, I've seen first-hand the gaps in end-of-life service provision and how people could be better supported during difficult times. I’ve also taken what I’ve learned designing services and products that transform palliative and end-of-life care, and integrated training from End-of-Life Doula UK, to offer a personalised end-of-life support service for people, friends and families.
 
 I offer holistic support in areas such as:
-- Emotional and Practical Guidance: I provide empathetic support and practical advice for individuals and families navigating the end-of-life journey.
-- Psycho-Spiritual Support: I assist individuals in exploring and finding comfort in the existential and spiritual aspects of their journey, focusing on making sense of life experiences and confronting end-of-life challenges.
+- Emotional and practical guidance: I provide empathetic support and practical advice for individuals and families navigating the end-of-life journey.
+- Psycho-spiritual support: I assist individuals in exploring and finding comfort in the existential and spiritual aspects of their journey, focusing on making sense of life experiences and confronting end-of-life challenges.
 
 **My approach**  
 My support service is characterised by a compassionate and holistic approach, where I aim to:
