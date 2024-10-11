@@ -27,4 +27,4 @@ My support service is characterised by a compassionate and holistic approach, wh
 | Service Type               | Description                                                              | Duration    | Price            | Booking                 |
 | -------------------------- | ------------------------------------------------------------------------ | ----------- | ---------------- | ---------------------------- |
 | Free Initial Consultation  | A complimentary session to discuss your needs and how we can assist you. | 30 minutes  | Free             | [**Book Now**](mailto:mail@ivorwilliams.info?subject=Free Initial Consultation)   |
-| Standard Consultation      | In-depth consultation for ongoing support and guidance.                  | 50 minutes  | £30              | [**Book Now**](https://calendly.com/ivor_williams/initial-end-of-life-consultation-clone)   |
+| Standard Consultation      | In-depth consultation for ongoing support and guidance.                  | 50 minutes  | £30              | [**Book Now**](mailto:mail@ivorwilliams.info?subject=Free End-of-Life Care Consultation)   |
