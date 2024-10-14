@@ -9,7 +9,7 @@ layout: default
 title: home
 ---
 
-![ivor](images/ivor-index.jpg)
+![ivor](images/ivor-home-sea.jpg)
 
 I am a design leader with over 15 years experience, with the past decade focused on health and care. I lead with adaptability and thoughtfulness, designing experiences that are grounded in care and built for lasting impact.
 
