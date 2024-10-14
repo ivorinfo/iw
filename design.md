@@ -24,20 +24,7 @@ My consultancy isn't just about solutions; it’s about understanding the journe
 - **Empathetic understanding**: My ability to empathise deeply with clients’ visions and challenges sets my consultancy apart.
 - **Actionable strategies**: You will walk away with clear, practical steps tailored to your specific needs and context.
 
-
-**Engagement details**  
-
-| **Service Offering**       | **Non-Profit/Charity**                      | **Startups**                                       | **For-Profit**                                   |
-|----------------------------|--------------------------------------------|----------------------------------------------------|--------------------------------------------------|
-| Initial Consultation   | Free (up to 1 hour)                         | Free (up to 30 mins)                               | £110 (up to 1 hour)                              |
-|      | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-non-profit)       | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-non-profit-clone)                | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-start-up-clone)                |
-| Follow-up Consultation | £65 per hour                               | £80 per hour                                       | £110 per hour                                    |
-|      | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-non-profit-clone-1)       | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-start-up-clone-1)               | [**Book a call**](https://calendly.com/ivor_williams/initial-consultation-for-profit-clone)                |
-
-**Notes for Clients:**
-- **Flexibility:** I understand that every project and organisation is unique. Please don't hesitate to reach out to discuss your specific needs and budget.
-- **Custom Packages:** I offer tailored packages for long-term or complex projects. Let's talk to find a solution that works for you.
-- **Booking and Payment:** Please use Calendly link to book a session and arrange payment (if required).
+**Get in touch**[mailto:mail@ivorwilliams.info]
 
 
 
