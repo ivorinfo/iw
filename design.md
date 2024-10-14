@@ -24,7 +24,7 @@ My consultancy isn't just about solutions; it’s about understanding the journe
 - **Empathetic understanding**: My ability to empathise deeply with clients’ visions and challenges sets my consultancy apart.
 - **Actionable strategies**: You will walk away with clear, practical steps tailored to your specific needs and context.
 
-**Get in touch**[mailto:mail@ivorwilliams.info]
+[**Get in touch**](mailto:mail@ivorwilliams.info)
 
 
 
