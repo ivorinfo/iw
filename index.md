@@ -11,11 +11,7 @@ title: home
 
 ![ivor](images/ivor-index.jpg)
 
-I work at the intersections of design, health, and human experience with a deep-seated drive to transform our relationship with mortality.
-
-I want to help to us - both individually and collectively - embrace our mortality with understanding, dignity, and grace.  
-
-I do that through designing, writing, talking and being with people. 
+I am a design leader with over 15 years experience, with the past decade focused on health and care. I lead with adaptability and thoughtfulness, designing experiences that are grounded in care and built for lasting impact.
 
 ---
 
