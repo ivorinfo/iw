@@ -12,6 +12,9 @@ I’ve been working as a designer for 16 years, 10 of those in healthcare. What 
 
 **What others say about working with me**
 
+*"Ivor is an outstanding design leader. What sets him apart is his passion and deep expertise in topic areas such as end of life care. He is highly innovative, extremely thoughtful, and a pleasure to work with. We have pursued many exciting projects together, often in situations where very senior stakeholders were involved. Despite the complexity, Ivor was able to bring people on board with his vision and deliver exceptional outcomes."*
+– Gianluca Fontana, CEO of Prova Health
+
 *"Ivor is a really profound communicator about a range of things that many people consider 'sensitive'. He is very thoughtful about how he hold his wisdom on a topic that wider society/others have considerably less comfort or experience talking about."*  
 – Iona Lawrence, co-founder of The Decelerator and the Jo Cox Foundation
 
