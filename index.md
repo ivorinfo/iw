@@ -25,4 +25,4 @@ I am a design leader with over 15 years experience, with the past decade focused
 - [Listen](https://www.youtube.com/watch?v=nVPdp9NtFcY) to my conversaton with writer and teacher, Stephen Jenkinson
 
 ### Get in touch
-- Lets [work together](/design)
+- Lets [work together](/consultancy)
