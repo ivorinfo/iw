@@ -28,4 +28,4 @@ title: home
 - Looking for a speaker on design, health, or *death*? [Explore my past events](/talks) and book me for keynotes, workshops, or panels.
 
 ### Lets work together
-- Ready to work together? Email me at [mail@ivorwilliams.info](mailto:mail@ivorwilliams.info)
+- Got a project in mind? Email me at [mail@ivorwilliams.info](mailto:mail@ivorwilliams.info) – I'd love to hear from you.
