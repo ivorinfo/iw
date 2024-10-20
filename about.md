@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-![ivor](/images/ivor2.jpg)
-
 ## A short introduction
 
-I am a designer and entrepreneur with over 15 years of experience across the UK, Italy, and the Netherlands. I’ve spent the last 10 years leading design innovation projects on healthcare with a focus on end-of-life care. In 2017, I was named a ‘New Radical’ by Nesta for pioneering human-centred approaches to death, bereavement, and grief. I co-founded Digital Care Planning at the Helix Centre also co-founded the mental health start-up Humane Engineering, creators of Cove, a music therapy product widely used in the NHS. I’ve taught design globally, held leadership roles at scale-ups, and authored influential reports. Currently, I run Mortals, a community focused on supporting people become more aware of their mortality. I also provide end-of-life doula services and continue my research at Imperial College London.
+### I am a designer and entrepreneur with over 15 years of experience across the UK, Italy, and the Netherlands. I’ve spent the last 10 years leading design innovation projects on healthcare with a focus on end-of-life care. In 2017, I was named a ‘New Radical’ by Nesta for pioneering human-centred approaches to death, bereavement, and grief. I co-founded Digital Care Planning at the Helix Centre also co-founded the mental health start-up Humane Engineering, creators of Cove, a music therapy product widely used in the NHS. I’ve taught design globally, held leadership roles at scale-ups, and authored influential reports. Currently, I run Mortals, a community focused on supporting people become more aware of their mortality. I also provide end-of-life doula services and continue my research at Imperial College London.
+
+![ivor](/images/ivor2.jpg)
 
 ## A full biography
 
