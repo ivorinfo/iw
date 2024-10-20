@@ -13,8 +13,6 @@ title: home
 
 ![ivor-home](images/ivor-home-sea.jpeg)
 
----
-
 ### Explore my work 
 - [Case studies](/work): Dive into recent design projects in health, care and innovation.
 - [Writing](/writing): Read my published work on innovation, health and psychology.
