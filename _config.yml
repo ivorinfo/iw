@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Ivor Williams is a design leader who creates meaningful, impactful products for complex health and care challenges.
+  Ivor Williams is a design leader who creates meaningful, impactful products and experiences for complex health and care challenges.
 
 # Build settings
 baseurl: "" # Change this to your GitHub project name
@@ -37,7 +37,7 @@ social_links:
 header_pages:
    - about.md
    - work.md
-   - services.md
+   - consultancy.md
    - contact.md
 # Set to `true` to show excerpts on the homepage.
 #
