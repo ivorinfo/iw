@@ -9,7 +9,7 @@ layout: default
 title: home
 ---
 
-## I am a design leader in health and care. I design products and experiences that are grounded in connection and meaning and built for lasting impact.
+## I am a design leader who helps people navigate complex health and care challenges and designs products and experiences that are grounded in connection and meaning that are built for lasting impact.
 
 ![ivor-home](images/ivor-home-sea.jpeg)
 
