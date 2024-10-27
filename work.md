@@ -36,7 +36,7 @@ Helix Centre
 Accurx  
 2023-24
 
-### Driving collaboration and alignment to scale Accurx’s mobile-first design, fostering a resilient team and streamlining healthcare communication.
+### Driving collaboration and alignment to support Accurx on-the-go, while fostering a resilient team to transform healthcare communication.
 
 
 ## Previous work
