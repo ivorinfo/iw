@@ -31,7 +31,12 @@ Helix Centre
 
 ### Redesigning emergency care conversations to prioritise patient-centred dialogue and shared decision-making.
 
+---
+[**Accurx**](/accurx)  
+Accurx  
+2023-24
 
+### Driving collaboration and alignment to scale Accurx’s mobile-first design, fostering a resilient team and streamlining healthcare communication.
 
 
 ## Previous work
