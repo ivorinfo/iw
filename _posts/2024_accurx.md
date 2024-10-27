@@ -1,0 +1,42 @@
+---
+layout: post
+title: Accurx
+categories: post
+permalink: /accurx/
+---
+#### Designing the foundations for a communication revolution
+
+![hospice](/images/ch1.jpg)
+
+**Context**  
+Accurx is a pioneering health tech company, striving to improve communication in healthcare and strengthen patient care. In my role, I served as both a leader and a hands-on designer, stepping in as a “player-coach” to guide my team while contributing directly to product design, particularly on their recently acrquired mobile product, [Accurx Switch](https://www.accurx.com/accurx-switch).
+
+**Challenge**  
+Operating within a rapidly scaling environment, my challenge was twofold: to drive high-impact design outcomes and to cultivate a high-performing, resilient design team. With the added task of building structure around design practices and aligning with broader product strategies, I was committed to delivering results while fostering an adaptive, supportive team culture.
+
+**What I did**  
+To meet product demands with limited resources, I took a hands-on approach in developing Switch’s product design. I worked closely with the Group Product Manger and aligned cross-functional priorities across Pods, Product Leadership Group, and other product teams. In parallel, I introduced daily Design Drop-In sessions, transforming them into a “Design Lead Input Session” to foster a collaborative environment, enable agile feedback, and break down silos across teams.
+
+In my role as a “player-coach,” I focused on team development by providing actionable, day-to-day guidance tailored to each individual’s goals. This included coaching direct reports on presentation skills for design critiques, enhancing their ability to lead discussions and elicit feedback effectively. I supported the development of structured critique sessions and adapting a 0%-20%-80% critique framework, setting a clear cadence and benchmarks to support ongoing project visibility and quality control. Additionally, my support during structural transitions, such as adopting new critique practices and high-performance principles, ensured my team was equipped to adapt smoothly to change.
+
+**My impact**  
+Through my combined role as player and coach, I achieved impact across several fronts:
+- Design delivery: Led the product design for Accurx Switch and contributed to the mobile strategy, balancing design ambition with engineering feasibility.
+- Team development: Enabled my team’s growth through immediate, repeatable practices to develop transferable skills and align with long-term goals.
+- Cross-functional alignment: Actively sought clarity in PLG and Pod Lead forums, ensuring design insights were well-integrated into broader strategic discussions.
+- Sustained culture: Set a healthy example of work-life balance, fostering stability and resilience within the team.
+
+**What people thought**  
+*“Your management style, allowing designers space to explore solutions, fosters a supportive and creative environment. Your calm approach to busy schedules brings stability to the team, especially during periods of change.”*  
+– Veron, Head of Design
+
+*“Ivor’s leadership has opened up new collaborative spaces within Accurx. His advocacy for design’s role in product development has aligned well with our mission.”*  
+– Simon, Desigenr
+
+---
+
+Team: Ivor Williams, Stuart Pittman, Emma Walker, Phil Wills.
+
+Image © Accurx Ltd.
+
+
