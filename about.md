@@ -10,7 +10,7 @@ I am a designer and entrepreneur with over 15 years of experience across the UK,
 
 I help people and organisations with their health and care challenges using design.
 
-![ivor](/images/ivor2.jpg)
+![ivor](/images/ivor-fabrica.jpeg)
 
 ## A full biography
 
