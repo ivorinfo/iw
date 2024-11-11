@@ -29,7 +29,21 @@ My ability to empathise deeply with clients’ visions and challenges sets my co
 - **Actionable strategies**  
 You will walk away with clear, practical steps tailored to your specific needs and context.
 
-## Got a project in mind? [Book a time to talk](https://calendar.app.google/rSFAoN4piCc7xU4R8) and lets work together.
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1TuTZRnip6mba_lSz82GH1OKebEkiY9b6kUZ75ppwIEOHV_bxIBWQU9NdMq9y9fs6QX4ArxYg_?gv=true',
+      color: '#F4511E',
+      label: 'Book a call now',
+      target,
+    });
+  });
+})();
+</script>
 
 
 
