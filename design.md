@@ -29,7 +29,7 @@ My ability to empathise deeply with clients’ visions and challenges sets my co
 - **Actionable strategies**  
 You will walk away with clear, practical steps tailored to your specific needs and context.
 
-### Got a project in mind? [Book a time to talk](https://calendar.app.google/rSFAoN4piCc7xU4R8) and lets work together.
+## Got a project in mind? [Book a time to talk](https://calendar.app.google/rSFAoN4piCc7xU4R8) and lets work together.
 
 
 
