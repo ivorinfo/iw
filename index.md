@@ -25,5 +25,4 @@ title: home
 - [Listen](https://www.youtube.com/watch?v=nVPdp9NtFcY) to my conversaton with writer and teacher, Stephen Jenkinson
 - Looking for a speaker on design, health, or *death*? [Explore my past events](/talks) and book me for keynotes, workshops, or panels.
 
-### Lets work together
-- Got a project in mind? [Book a slot now](https://calendar.app.google/uDamy3i8G4PACUhB7) and let's talk.
+### Got a project in mind? [Book a time to talk](https://calendar.app.google/uDamy3i8G4PACUhB7) and let's work together.
