@@ -26,4 +26,4 @@ title: home
 - Looking for a speaker on design, health, or *death*? [Explore my past events](/talks) and book me for keynotes, workshops, or panels.
 
 ### Lets work together
-- Got a project in mind? Email me at [mail@ivorwilliams.info](mailto:mail@ivorwilliams.info) – I'd love to hear from you.
+- Got a project in mind? [Book a slot now](https://calendar.app.google/uDamy3i8G4PACUhB7) and let's talk.
