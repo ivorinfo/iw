@@ -11,6 +11,8 @@ title: home
 
 ## I am a design leader who helps people navigate complex health and care challenges, designing products and experiences grounded in connection and meaning, and built for lasting impact.
 
+### Got a project in mind? [Book a time to talk](https://calendar.app.google/uDamy3i8G4PACUhB7) and let's work together.
+
 ![ivor-home](images/ivor-home-sea.jpeg)
 
 ### Explore my work 
@@ -24,5 +26,3 @@ title: home
 - Watch my talk [*Design at the end*](https://vimeo.com/321016208) at IxDA.
 - [Listen](https://www.youtube.com/watch?v=nVPdp9NtFcY) to my conversaton with writer and teacher, Stephen Jenkinson
 - Looking for a speaker on design, health, or *death*? [Explore my past events](/talks) and book me for keynotes, workshops, or panels.
-
-### Got a project in mind? [Book a time to talk](https://calendar.app.google/uDamy3i8G4PACUhB7) and let's work together.
