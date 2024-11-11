@@ -13,7 +13,7 @@ title: home
 
 ### Got a project in mind? [Book a time to talk](https://calendar.app.google/uDamy3i8G4PACUhB7) and let's work together.
 
-![ivor-home](images/ivor-home-sea.jpeg)
+![ivor-home](images/ivor-workshop.jpeg)
 
 ### Explore my work 
 - [Case studies](/work): Dive into recent design projects in health, care and innovation.
