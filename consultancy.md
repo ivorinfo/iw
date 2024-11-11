@@ -17,7 +17,7 @@ I’ve been working as a designer for 16 years, 10 of those in healthcare. What 
 *"Ivor is deeply empathetic and has a unique approach that blends collaboration and creativity with critical thinking and rigor. He has been my design therapist for Apart of Me, guiding me wisely on a number of key design decisions we needed to make over the last years. I would say that Ivor is the wisest designer I know."*  
 — Louis Weinstock, psychotherapist and co-founder of Bounce Works
 
-[Learn more about what I can offer](/design) or email me at [mail@ivorwilliamslinfo](mailto:mail@ivorwilliams.info).
+[Learn more about what I can offer](/design) or [book a slot to talk](https://calendar.app.google/rSFAoN4piCc7xU4R8).
 
 ---
 
