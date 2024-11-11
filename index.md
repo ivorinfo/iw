@@ -10,23 +10,7 @@ title: home
 ---
 
 ## I am a design leader who helps people navigate complex health and care challenges, designing products and experiences grounded in connection and meaning, and built for lasting impact.
-
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1TuTZRnip6mba_lSz82GH1OKebEkiY9b6kUZ75ppwIEOHV_bxIBWQU9NdMq9y9fs6QX4ArxYg_?gv=true',
-      color: '#F4511E',
-      label: 'Got a project in mind? Book an time to talk',
-      target,
-    });
-  });
-})();
-</script>
-
+  
 ![ivor-home](images/ivor-workshop.jpeg)
 
 ### Explore my work 
@@ -40,3 +24,19 @@ title: home
 - Watch my talk [*Design at the end*](https://vimeo.com/321016208) at IxDA.
 - [Listen](https://www.youtube.com/watch?v=nVPdp9NtFcY) to my conversaton with writer and teacher, Stephen Jenkinson
 - Looking for a speaker on design, health, or *death*? [Explore my past events](/talks) and book me for keynotes, workshops, or panels.
+
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1TuTZRnip6mba_lSz82GH1OKebEkiY9b6kUZ75ppwIEOHV_bxIBWQU9NdMq9y9fs6QX4ArxYg_?gv=true',
+      color: '#F4511E',
+      label: 'Book a call',
+      target,
+    });
+  });
+})();
+</script>
