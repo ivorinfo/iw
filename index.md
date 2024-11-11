@@ -20,14 +20,12 @@ title: home
     calendar.schedulingButton.load({
       url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1TuTZRnip6mba_lSz82GH1OKebEkiY9b6kUZ75ppwIEOHV_bxIBWQU9NdMq9y9fs6QX4ArxYg_?gv=true',
       color: '#F4511E',
-      label: 'Book an appointment',
+      label: 'Got a project in mind? Book an time to talk',
       target,
     });
   });
 })();
 </script>
-
-### Got a project in mind? [Book a time to talk](https://calendar.app.google/uDamy3i8G4PACUhB7) and let's work together.
 
 ![ivor-home](images/ivor-workshop.jpeg)
 
