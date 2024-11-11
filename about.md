@@ -38,13 +38,11 @@ I [speak regularly around the world](/talks) and have presented keynotes at End 
 
 ## What I'm doing now
 
+I provide design consultancy services to people and organisations. I work across the design process from research through to delivery. [Book in a time to chat](https://calendar.app.google/eDsLXNgaPjUK1VFi8), and lets talk about your project. 
+
 I'm the founder of [Mortals](http://mortals.community), an online community and group programme that is centred around awakening to life. 
 
-I provide support to people and families as an end-of-life doula, and in association with [End of Life Doula UK](https://eol-doula.uk). 
-
-I continue my end-of-life care research and innovation work as Honorary Practice Fellow at the [Institute of Global Health Innovation](https://www.imperial.ac.uk/global-health-innovation/) at Imperial College London.
-
-Lastly, I am also an advisor for [Zinc VC](https://www.zinc.vc), and provide consultancy services for a number of start-ups, charities and organisations.
+I also continue my research and innovation work as Honorary Practice Fellow at the [Institute of Global Health Innovation](https://www.imperial.ac.uk/global-health-innovation/) at Imperial College London.
 
 ---
 
