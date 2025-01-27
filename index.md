@@ -9,7 +9,7 @@ layout: default
 title: home
 ---
 
-## I am a design leader who helps people navigate complex health and care challenges, designing products and experiences grounded in connection and meaning, and built for lasting impact.
+## I work with organisations to navigate complex, sensitive transformations. Through design leadership and deep human understanding, I help teams facing health and care challenges with courage, translate authentic experiences into meaningful solutions and build lasting positive change.
   
 ![ivor-home](images/ivor-workshop.jpeg)
 
