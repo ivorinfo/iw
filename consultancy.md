@@ -4,7 +4,7 @@ title: Consultancy
 permalink: /consultancy/
 ---
 
-I’ve been working as a designer for 16 years, 10 of those in healthcare. What sets me apart is not just my expertise in design, but my empathy and insight into the intricate balance between innovation, human needs, and the practical realities of health and care environments. This unique perspective comes from my extensive collaboration with healthcare professionals, patients, and their families, granting me a deep understanding of the real-world challenges when it comes to supporting people and organisations that do the difficult work to improve our health and wellbeing. Learn more about what I [offer](/design.md).
+I’ve been working as a designer for 18 years, 10 of those in healthcare. What sets me apart is not just my expertise in design, but my empathy and insight into the intricate balance between innovation, human needs and the practical realities of health and care environments. This unique perspective comes from my extensive collaboration with healthcare professionals, patients, and their families, granting me a deep understanding of the real-world challenges when it comes to supporting people and organisations that do the difficult work to improve our health and wellbeing. Learn more about what I [offer](/design.md).
 
 **What others say about working with me**
 
