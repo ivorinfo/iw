@@ -9,8 +9,8 @@ layout: default
 title: home
 ---
 
-## I support healthcare, deathcare and other organisations in improving their products and services during life's most sensitive moments.
-Through design leadership, consulting and focused project work.
+## I support healthcare, deathcare and other organisations in improving their products and services during life's most sensitive moments. I do this through design leadership, consulting and focused project work.
+
 
 ### Explore my work 
 - [Case studies](/work): Dive into recent design projects in health, care and innovation.
