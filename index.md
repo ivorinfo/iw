@@ -9,34 +9,9 @@ layout: default
 title: home
 ---
 
-## I work with organisations to navigate complex, sensitive transformations. Through design leadership and deep human understanding, I help teams facing health and care challenges with courage, translate authentic experiences into meaningful solutions and build lasting positive change.
-  
-![ivor-home](images/ivor-workshop.jpeg)
+## I support healthcare, deathcare and other organisations in improving their products and services during life's most sensitive moments.
+Through design leadership, consulting and focused project work.
 
 ### Explore my work 
 - [Case studies](/work): Dive into recent design projects in health, care and innovation.
 - [Writing](/writing): Read my published work on innovation, health and psychology.
-
-### Discover Mortals
-- Learn more about [Mortals](http://mortals.community) using awareness of mortality to help us live more fully.
-
-### Speaking and events
-- Watch my talk [*Design at the end*](https://vimeo.com/321016208) at IxDA.
-- [Listen](https://www.youtube.com/watch?v=nVPdp9NtFcY) to my conversaton with writer and teacher, Stephen Jenkinson
-- Looking for a speaker on design, health, or *death*? [Explore my past events](/talks) and book me for keynotes, workshops, or panels.
-
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1TuTZRnip6mba_lSz82GH1OKebEkiY9b6kUZ75ppwIEOHV_bxIBWQU9NdMq9y9fs6QX4ArxYg_?gv=true',
-      color: '#F4511E',
-      label: 'Book a call',
-      target,
-    });
-  });
-})();
-</script>
