@@ -9,7 +9,7 @@ description: >
   Ivor Williams is a designer who creates meaningful, impactful products and experiences for complex health and care challenges.
 
 # Build settings
-baseurl: "" # Change this to your GitHub project name
+baseurl: "/iw"
 theme: minima
 
 plugins:
